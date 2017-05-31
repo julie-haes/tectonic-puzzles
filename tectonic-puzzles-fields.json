@@ -1,0 +1,78 @@
+{
+    "fields": [
+        {
+            "X": "A",
+            "Y": 0,
+            "value": null,
+            "top": {
+                "X": null,
+                "Y": null
+            },
+            "bottom": {
+                "X": "A",
+                "Y": 1
+            },
+            "right": {
+                "X": "B",
+                "Y": 0
+            },
+            "left": {
+                "X": null,
+                "Y": null
+            },
+            "TopRightCorner": {
+                "X": null,
+                "Y": null
+            },
+            "TopLeftCorner": {
+                "X": null,
+                "Y": null
+            },
+            "BottomRightCorner": {
+                "X": "B",
+                "Y": 1
+            },
+            "BottomLeftCorner": {
+                "X": null,
+                "Y": null
+            }
+        },
+        {
+            "X": "C",
+            "Y": 2,
+            "value": null,
+            "top": {
+                "X": "C",
+                "Y": 1
+            },
+            "bottom": {
+                "X": "C",
+                "Y": 3
+            },
+            "left": {
+                "X": "B",
+                "Y": 2
+            },
+            "right": {
+                "X": "D",
+                "Y": 2
+            },
+            "TopLeftCorner": {
+                "X": "B",
+                "Y": 1
+            },
+            "TopRightCorner": {
+                "X": "D",
+                "Y": 1
+            },
+            "BottomLeftCorner": {
+                "X": "B",
+                "Y": 3
+            },
+            "BottomRightCorner": {
+                "X": "D",
+                "Y": 3
+            }
+        }
+    ]
+}
